@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: grey;
+    font-family: 'Anonymous Pro', monospace;
+    text-align: justify;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.navbar {
+}
+
+.content {
+}
+
